@@ -1,6 +1,6 @@
 #include <stdio.h>
 //Declaração das variáveis
-int vertical, horizontal, peca, i=0;
+int peca, i=0;
 //Posição inicial das peças
 int torre = 11, bispo = 31, rainha = 58;
 
